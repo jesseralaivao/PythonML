@@ -1,1 +1,12 @@
-micreerva brache hafa ataov branch "ml" no anarany
+activer environment: 
+mivoka ao @misy dossier ao de terminal
+
+$ sourve env/bin/activate
+
+
+mila mampiasa branch ml tsy tokon hikitika main mints, ao @ brach ml no miasa zani
+
+$ git switch ml
+$ git branch                #pour verifier si tu est dans le banch ml
+
+bonne cntinuation et bon projet

@@ -1,1 +1,12 @@
-micreerva brache hafa ataov branch "py" no anarany
+activer environment: 
+mivoka ao @misy dossier ao de terminal
+
+$ sourve env/bin/activate
+
+
+mila mampiasa branch py tsy tokon hikitika main mints, ao @ brach py no miasa zani
+
+$ git switch py
+$ git branch                #pour verifier si tu est dans le banch py
+
+bonne cntinuation et bon projet

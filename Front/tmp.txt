@@ -1,1 +1,12 @@
-ato ny front-tsika React no ato na Express
+activer environment: 
+mivoka ao @misy dossier ao de terminal
+
+$ sourve env/bin/activate
+
+
+mila mampiasa branch front tsy tokon hikitika main mints, ao @ brach ml no miasa zani
+
+$ git switch front
+$ git branch                #pour verifier si tu est dans le banch front
+
+bonne cntinuation et bon projet
